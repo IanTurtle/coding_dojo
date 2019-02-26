@@ -1,0 +1,14 @@
+Congratulations on finding the actual challenges!!
+
+Please attempt the below, we will go through the exercises in a few minutes, any questions please do not hesitate to ask.
+
+1. Copy these questions into the "destination" directory.
+2. Rename the file to something more readable.
+3. Change the permissions of the file so that only you can read it.
+4. In the "destination" directory create a file that contains some information about yourself (at least the below):
+  - name: <name>
+  - age: <age>
+  - job: <job>
+5. Search the file for your name and display on the command line.
+6. Copy the file in look_here/hello_world.sh to the destination directory.
+7. Run the script (it might not work first time - try to work out why)
